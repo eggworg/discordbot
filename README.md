@@ -23,3 +23,9 @@ Click the `click to reveal` button in text and copy the token. You will need thi
 If you don't have Java installed yet, click [here](https://java.com/en/download/) to download the latest available version.
 
 If your OS is Windows, please don't use notepad! Instead, consider downloading a dedicated text editor with .ini supported syntax highlighting such as [Notepad++](https://notepad-plus-plus.org/).
+
+`;` are comments. They're here to assist you through the settings file. After you finish editing `Settings.ini`, it's time to run the bot.
+
+### Starting the bot
+
+Before you actually run the bot, you will need to add the bot user to your discord server.
