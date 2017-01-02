@@ -1,4 +1,4 @@
-# Discord Bot 1.0 
+# Discord Bot v1.0 
 
 This Discord Bot is written in [Java](https://www.jetbrains.com/idea/), utilizing the [Discord4J](https://github.com/austinv11/Discord4J) API, and is inspired by SexualRhinoceros' [MusicBot](https://github.com/Just-Some-Bots/MusicBot)<br>
 
