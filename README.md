@@ -1,6 +1,6 @@
 # Discord Bot v1.0 
 
-This Discord Bot is written in [Java](https://www.jetbrains.com/idea/){:target="_blank"}, utilizing the [Discord4J](https://github.com/austinv11/Discord4J) API, and is inspired by SexualRhinoceros' [MusicBot](https://github.com/Just-Some-Bots/MusicBot)<br>
+This Discord Bot is written in <Link href="https://www.jetbrains.com/idea/" target="_blank">Java</Link>, utilizing the [Discord4J](https://github.com/austinv11/Discord4J) API, and is inspired by SexualRhinoceros' [MusicBot](https://github.com/Just-Some-Bots/MusicBot)<br>
 
 ### Setting up
 
