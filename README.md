@@ -28,4 +28,10 @@ If your OS is Windows, please don't use notepad! Instead, consider downloading a
 
 ### Starting the bot
 
-Before you actually run the bot, you will need to add the bot user to your discord server.
+Before you actually run the bot, you will need to add the bot user to your discord server.<br>
+You will need to go back to your bot application and retrieve the client id.
+
+![client id](https://cloud.githubusercontent.com/assets/24867967/21594342/7c558b22-d0ef-11e6-8cf6-e913c1ba7695.png?raw=true)
+
+Next, you'll need to copy the link below and replace `CLIENT_ID` with your client id.
+https://discordapp.com/api/oauth2/authorize?client_id=CLIENT_ID&scope=bot&permissions=0
