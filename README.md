@@ -4,7 +4,7 @@ This Discord Bot is written in [Java](https://www.jetbrains.com/idea/), utilizin
 
 ### Setting up
 
-If you do not have a bot application created yet, click [here](https://discordapp.com/developers/applications) and create a new application. The 'app name' will be your bot's username. The 'app icon' will be your bot's icon. Don't add any URIs. App description can be left empty. For example:
+If you do not have a bot application created yet, click [here](https://discordapp.com/developers/applications) and create a new application. The `app name` will be your bot's username. The `app icon` will be your bot's icon. Don't add any URIs. App description can be left empty. For example:
 
 ![application](https://cloud.githubusercontent.com/assets/24867967/21583888/a5a410fe-d061-11e6-9a18-5b7a7293b88e.png?raw=true)
 
