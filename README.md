@@ -8,7 +8,7 @@ If you do not have a bot application created yet, click [here](https://discordap
 
 ![application](https://cloud.githubusercontent.com/assets/24867967/21583888/a5a410fe-d061-11e6-9a18-5b7a7293b88e.png?raw=true)
 
-After you've created your application, click 'Create a Bot User.'
+After you've created your application, click `Create a Bot User`.
 
 ![bot user](https://cloud.githubusercontent.com/assets/24867967/21583922/ac315b60-d062-11e6-9057-55b22f08b93e.png?raw=true)
 
@@ -16,7 +16,7 @@ You should now see this:
 
 ![app bot user](https://cloud.githubusercontent.com/assets/24867967/21583936/4b8c4b16-d063-11e6-9411-6c51ebc9ece7.png?raw=true)
 
-Click the 'click to reveal' button in text and copy the token. You will need this to authenticate your bot to the discord servers.
+Click the `click to reveal` button in text and copy the token. You will need this to authenticate your bot to the discord servers.
 
 ### Editing Settings.ini
 
