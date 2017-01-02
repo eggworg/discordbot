@@ -1,6 +1,6 @@
 # Discord Bot 1.0
 
-This Discord Bot is written in [java](https://www.jetbrains.com/idea/). It includes various type of commands such as general, administrative, music, and video games.
+This Discord Bot is written in [java](https://www.jetbrains.com/idea/). It includes various types of commands such as general, administrative, music, and video games.
 
 ### Installation
 
