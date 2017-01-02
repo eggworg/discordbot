@@ -10,4 +10,8 @@ If your OS is Windows, please don't use notepad! Instead, consider downloading a
 
 If you do not have a bot application created yet, click [here](https://discordapp.com/developers/applications) and create a new application. The 'app name' will be your bot's username. The 'app icon' will be your bot's icon. Don't add any URIs. App description can be left empty. Example:
 
-![Example Bot Application](https://cloud.githubusercontent.com/assets/24867967/21583888/a5a410fe-d061-11e6-9a18-5b7a7293b88e.png?raw=true)
+![application](https://cloud.githubusercontent.com/assets/24867967/21583888/a5a410fe-d061-11e6-9a18-5b7a7293b88e.png?raw=true)
+
+After you've created your application, click 'Create a Bot User.'
+
+![bot_user](https://cloud.githubusercontent.com/assets/24867967/21583922/ac315b60-d062-11e6-9057-55b22f08b93e.png?raw=true)
