@@ -35,3 +35,18 @@ You will need to go back to your bot application and retrieve the client id.
 
 Next, you'll need to copy the link below and replace `CLIENT_ID` with your client id.
 https://discordapp.com/api/oauth2/authorize?client_id=CLIENT_ID&scope=bot&permissions=0
+
+You should see a screen similar to this:
+
+![add to server](https://cloud.githubusercontent.com/assets/24867967/21594394/0f99cdda-d0f0-11e6-97b2-58521a8ced5f.png?raw=true)
+
+Choose your server and click `Authorize`. Note: You must have the `Manager Server` permission on your server.
+
+Now that we're finished adding the bot to the server, we'll need to run it.
+
+If you're on windows, double click on `run.bat`. 
+
+If you're on linux, you will need to give execute permission to `run.sh`.<br>
+To do this, open up terminal and change to your bot's directory. You will then need to type `chmod +x ./run.sh`, which lets you run the script. Now simply type `./run.sh` to start the bot.
+
+If successful, your bot should now be online. Have fun! :)
