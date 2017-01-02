@@ -1,6 +1,6 @@
 # Discord Bot 1.0 
 
-This Discord Bot is written in [Java](https://www.jetbrains.com/idea/), utilizing the [Discord4J](https://github.com/nerd/Discord4J)<br>dsfg/java.com/en/download/) to download the latest version.
+This Discord Bot is written in [Java](https://www.jetbrains.com/idea/), utilizing the [Discord4J](https://github.com/nerd/Discord4J) API, and is inspired by SexualRhinoceros' [MusicBot](https://github.com/Just-Some-Bots/MusicBot)<br>dsfg/java.com/en/download/) to download the latest version.
 
 ### Settings
 
