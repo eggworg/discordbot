@@ -6,3 +6,6 @@ This Discord Bot is written in [java](https://www.jetbrains.com/idea/). It inclu
 
 Click [here](https://java.com/en/download/) if you have not installed java yet. <br/>
 After you've installed java, you'll need to configure 'settings.ini'
+<html>
+<p>ok</p>
+</html>
